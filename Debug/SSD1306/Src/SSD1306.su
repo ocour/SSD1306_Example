@@ -1,0 +1,13 @@
+../SSD1306/Src/SSD1306.c:15:6:SSD1306_WriteCommand	40	static
+../SSD1306/Src/SSD1306.c:33:6:SSD1306_ClearDisplay	16	static
+../SSD1306/Src/SSD1306.c:44:6:SSD1306_FillDisplay	16	static
+../SSD1306/Src/SSD1306.c:56:6:SSD1306_Display	32	static
+../SSD1306/Src/SSD1306.c:88:6:SSD1306_InvertDisplay	24	static
+../SSD1306/Src/SSD1306.c:110:6:SSD1306_PutPixel	24	static
+../SSD1306/Src/SSD1306.c:129:6:SSD1306_DisplayOFF	24	static
+../SSD1306/Src/SSD1306.c:143:6:SSD1306_DisplayON	24	static
+../SSD1306/Src/SSD1306.c:159:6:SSD1306_DrawBitmap	32	static
+../SSD1306/Src/SSD1306.c:184:6:SSD1306_DrawChar	32	static
+../SSD1306/Src/SSD1306.c:211:6:SSD1306_DrawString	40	static
+../SSD1306/Src/SSD1306.c:228:6:SSD1306_Init	24	static
+../SSD1306/Src/SSD1306.c:261:6:SSD1306_InitCommands	96	static
